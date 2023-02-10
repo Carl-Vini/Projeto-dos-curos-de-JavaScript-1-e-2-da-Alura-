@@ -1,4 +1,4 @@
-# Projeto-dos-curos-de-JavaScript-1-e-2-da-Alura-
+# Digital bank - project - using Node.Js-
 
 # O objetivo desse curso era ensinar a linguagem javaScript e posteriormente ensinar a linguagem orientada a objetos.
 
